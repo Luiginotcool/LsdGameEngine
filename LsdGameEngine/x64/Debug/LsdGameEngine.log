@@ -1,0 +1,60 @@
+﻿  LsdGameEngine.cpp
+C:\Users\Luigi\source\repos\LsdGameEngine\LsdGameEngine\LsdGameEngine.cpp(27,106): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\Luigi\source\repos\LsdGameEngine\LsdGameEngine\LsdGameEngine.cpp(27,72): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\Luigi\source\repos\LsdGameEngine\LsdGameEngine\LsdGameEngine.cpp(27,53): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\Luigi\source\repos\LsdGameEngine\LsdGameEngine\LsdGameEngine.cpp(66,34): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Luigi\source\repos\LsdGameEngine\LsdGameEngine\LsdGameEngine.cpp(120,33): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Luigi\source\repos\LsdGameEngine\LsdGameEngine\LsdGameEngine.cpp(213,141): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\Luigi\source\repos\LsdGameEngine\LsdGameEngine\LsdGameEngine.cpp(213,111): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\Luigi\source\repos\LsdGameEngine\LsdGameEngine\LsdGameEngine.cpp(213,81): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\Luigi\source\repos\LsdGameEngine\LsdGameEngine\LsdGameEngine.cpp(213,55): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\Luigi\source\repos\LsdGameEngine\LsdGameEngine\LsdGameEngine.cpp(215,140): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\Luigi\source\repos\LsdGameEngine\LsdGameEngine\LsdGameEngine.cpp(215,114): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\Luigi\source\repos\LsdGameEngine\LsdGameEngine\LsdGameEngine.cpp(215,88): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\Luigi\source\repos\LsdGameEngine\LsdGameEngine\LsdGameEngine.cpp(215,58): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\Luigi\source\repos\LsdGameEngine\LsdGameEngine\LsdGameEngine.cpp(222,141): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\Luigi\source\repos\LsdGameEngine\LsdGameEngine\LsdGameEngine.cpp(222,111): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\Luigi\source\repos\LsdGameEngine\LsdGameEngine\LsdGameEngine.cpp(222,81): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\Luigi\source\repos\LsdGameEngine\LsdGameEngine\LsdGameEngine.cpp(222,55): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\Luigi\source\repos\LsdGameEngine\LsdGameEngine\LsdGameEngine.cpp(224,140): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\Luigi\source\repos\LsdGameEngine\LsdGameEngine\LsdGameEngine.cpp(224,114): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\Luigi\source\repos\LsdGameEngine\LsdGameEngine\LsdGameEngine.cpp(224,88): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\Luigi\source\repos\LsdGameEngine\LsdGameEngine\LsdGameEngine.cpp(224,58): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\Luigi\source\repos\LsdGameEngine\LsdGameEngine\LsdGameEngine.cpp(316,10): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\Luigi\source\repos\LsdGameEngine\LsdGameEngine\LsdGameEngine.cpp(317,10): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\Luigi\source\repos\LsdGameEngine\LsdGameEngine\LsdGameEngine.cpp(318,14): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\Luigi\source\repos\LsdGameEngine\LsdGameEngine\LsdGameEngine.cpp(320,10): warning C4244: '+=': conversion from 'float' to 'int', possible loss of data
+C:\Users\Luigi\source\repos\LsdGameEngine\LsdGameEngine\LsdGameEngine.cpp(321,10): warning C4244: '+=': conversion from 'float' to 'int', possible loss of data
+C:\Users\Luigi\source\repos\LsdGameEngine\LsdGameEngine\LsdGameEngine.cpp(328,10): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\Luigi\source\repos\LsdGameEngine\LsdGameEngine\LsdGameEngine.cpp(329,10): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\Luigi\source\repos\LsdGameEngine\LsdGameEngine\LsdGameEngine.cpp(330,14): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\Luigi\source\repos\LsdGameEngine\LsdGameEngine\LsdGameEngine.cpp(332,10): warning C4244: '-=': conversion from 'float' to 'int', possible loss of data
+C:\Users\Luigi\source\repos\LsdGameEngine\LsdGameEngine\LsdGameEngine.cpp(333,10): warning C4244: '-=': conversion from 'float' to 'int', possible loss of data
+C:\Users\Luigi\source\repos\LsdGameEngine\LsdGameEngine\LsdGameEngine.cpp(377,162): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\Luigi\source\repos\LsdGameEngine\LsdGameEngine\LsdGameEngine.cpp(377,114): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\Luigi\source\repos\LsdGameEngine\LsdGameEngine\LsdGameEngine.cpp(377,88): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\Luigi\source\repos\LsdGameEngine\LsdGameEngine\LsdGameEngine.cpp(391,168): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\Luigi\source\repos\LsdGameEngine\LsdGameEngine\LsdGameEngine.cpp(391,116): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\Luigi\source\repos\LsdGameEngine\LsdGameEngine\LsdGameEngine.cpp(391,90): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\Luigi\source\repos\LsdGameEngine\LsdGameEngine\LsdGameEngine.cpp(413,113): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Luigi\source\repos\LsdGameEngine\LsdGameEngine\LsdGameEngine.cpp(413,92): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Luigi\source\repos\LsdGameEngine\LsdGameEngine\LsdGameEngine.cpp(424,113): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Luigi\source\repos\LsdGameEngine\LsdGameEngine\LsdGameEngine.cpp(424,92): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Luigi\source\repos\LsdGameEngine\LsdGameEngine\LsdGameEngine.cpp(438,31): warning C4305: '=': truncation from 'double' to 'float'
+C:\Users\Luigi\source\repos\LsdGameEngine\LsdGameEngine\LsdGameEngine.cpp(451,105): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Luigi\source\repos\LsdGameEngine\LsdGameEngine\LsdGameEngine.cpp(451,86): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Luigi\source\repos\LsdGameEngine\LsdGameEngine\LsdGameEngine.cpp(452,95): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Luigi\source\repos\LsdGameEngine\LsdGameEngine\LsdGameEngine.cpp(452,74): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Luigi\source\repos\LsdGameEngine\LsdGameEngine\LsdGameEngine.cpp(454,61): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\Luigi\source\repos\LsdGameEngine\LsdGameEngine\LsdGameEngine.cpp(454,47): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\Luigi\source\repos\LsdGameEngine\LsdGameEngine\LsdGameEngine.cpp(454,33): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\Luigi\source\repos\LsdGameEngine\LsdGameEngine\LsdGameEngine.cpp(454,23): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\Luigi\source\repos\LsdGameEngine\LsdGameEngine\LsdGameEngine.cpp(455,61): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\Luigi\source\repos\LsdGameEngine\LsdGameEngine\LsdGameEngine.cpp(455,47): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\Luigi\source\repos\LsdGameEngine\LsdGameEngine\LsdGameEngine.cpp(455,33): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\Luigi\source\repos\LsdGameEngine\LsdGameEngine\LsdGameEngine.cpp(455,23): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\Luigi\source\repos\LsdGameEngine\LsdGameEngine\LsdGameEngine.cpp(467,41): warning C4305: '-=': truncation from 'double' to 'float'
+C:\Users\Luigi\source\repos\LsdGameEngine\LsdGameEngine\LsdGameEngine.cpp(468,42): warning C4305: '+=': truncation from 'double' to 'float'
+C:\Users\Luigi\source\repos\LsdGameEngine\LsdGameEngine\LsdGameEngine.cpp(469,49): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Luigi\source\repos\LsdGameEngine\LsdGameEngine\LsdGameEngine.cpp(470,52): warning C4305: 'argument': truncation from 'double' to 'float'
+  LsdGameEngine.vcxproj -> C:\Users\Luigi\source\repos\LsdGameEngine\x64\Debug\LsdGameEngine.exe
